@@ -1,2 +1,9 @@
-::res://::1422304880
+::res://::1422307370
 icon.png::ImageTexture::1422304880::
+pong.gd::GDScript::1422307370::
+pong.scn::PackedScene::1422307346::
+::res://Pics::1422304938
+ball.png::ImageTexture::1387240444::
+left_pallete.png::ImageTexture::1387240374::
+right_pallete.png::ImageTexture::1387240398::
+separator.png::ImageTexture::1387240536::
